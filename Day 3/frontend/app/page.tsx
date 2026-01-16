@@ -111,6 +111,11 @@ export default function Page() {
           Day 3 – Frontend dApp (Avalanche)
         </h1>
 
+      <div className="text-center text-sm text-gray-400">
+    <p className="font-semibold text-gray-300">Nama: Achmad S.W.A.N</p>
+    <p>NIM: 231011402106</p>
+  </div>
+        
         {/* WALLET CONNECT */}
         {!isConnected ? (
           <button
